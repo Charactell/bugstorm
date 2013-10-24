@@ -1,4 +1,4 @@
-bugstorm - FormStorm bug tracking hub
+bugstorm - FormStorm bug tracking
 ========
 
 Please add issues/bugs/suggestions here. 
